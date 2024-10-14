@@ -1,4 +1,4 @@
-# Here is a simplified, step-by-step guide to using Jupyter Notebooks on the Lengau HPC system. 
+# A simplified, step-by-step guide to using Jupyter Notebooks on the Lengau HPC system. 
 
 ## Step 1: Login into Lengau
 ```
